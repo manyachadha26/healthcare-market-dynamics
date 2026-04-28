@@ -1,8 +1,3 @@
-"""
-Execute SQL queries from 04_powerbi_sql_queries.sql
-Export results as CSVs for Power BI import
-"""
-
 import sqlite3
 import pandas as pd
 
@@ -292,5 +287,5 @@ CSV Files created (ready for Power BI):
 7. powerbi_07_kpi_metrics.csv
 8. powerbi_08_company_details.csv
 
-NEXT STEP: Import these files into Power BI Desktop
+
 """)
