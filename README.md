@@ -21,8 +21,7 @@ This project analyzes ₹2,465 crores of healthcare VC investment in India and r
 -  **The Gap** - VC focus vs India2 need (the core insight)
 
 ### 2. Professional Report (12 pages)
-**File:** 
-
+**📄 Download Report:** [Healthcare_Market_Dynamics_Report.pdf](file:///Users/manyachadha/Downloads/Healthcare%20Market%20Dynamics_%20The%20Missing%20Middle.pdf) 
 Comprehensive analysis including:
 - Executive Summary with key data
 - Market Overview (India1/2/3 breakdown)
