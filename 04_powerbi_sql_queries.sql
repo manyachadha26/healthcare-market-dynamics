@@ -1,5 +1,3 @@
--- HEALTHCARE MARKET DYNAMICS - ADVANCED SQL QUERIES FOR POWER BI
--- Shows: JOINs, CTEs, Window Functions, Aggregations, Calculations
 
 -- ============================================================================
 -- QUERY 1: SPENDING COMPARISON WITH TRENDS (Shows CTEs + Window Functions)
@@ -284,21 +282,3 @@ SELECT
 FROM healthcare_companies
 ORDER BY funding_raised DESC;
 
--- ============================================================================
--- NOTES FOR POWER BI
--- ============================================================================
--- These queries are designed to be imported into Power BI as:
--- 1. Direct SQL queries (if using SQL Server/Database connection)
--- 2. Or results exported to CSV and imported as data sources
---
--- Key features demonstrated:
--- ✓ CTEs (Common Table Expressions) - Query 1, 4, 5
--- ✓ Window Functions - Query 1, 3, 4
--- ✓ JOINs - Query 2
--- ✓ Aggregation Functions - Query 4
--- ✓ CASE Statements - Query 5, 6, 8
--- ✓ Ranking/Row Numbering - Query 4
--- ✓ Complex calculations - Query 2, 5
--- ✓ Business logic - Query 5, 6, 7
---
--- These form the data layer for Power BI calculations and visualizations
