@@ -1,0 +1,8 @@
+healthcare_segment,current_vc_focus_score,india2_need_score,tam_billions,funding_raised_crores,investment_gap_score,penetration_pct,investment_status,strategic_implication
+Telemedicine,8,3,50,800,-5,1600.0,Overinvested,Solving Wrong Problem
+Diagnostics,7,7,40,600,0,1500.0,Well Balanced,Aligned
+Hospital Software,5,4,20,200,-1,1000.0,Overinvested,Solving Wrong Problem
+Medical Financing,2,8,80,150,6,187.5,MASSIVELY UNDERINVESTED,BIGGEST OPPORTUNITY
+Affordable Insurance,3,8,60,100,5,166.67,MASSIVELY UNDERINVESTED,BIGGEST OPPORTUNITY
+Preventive Care,2,7,50,50,5,100.0,MASSIVELY UNDERINVESTED,BIGGEST OPPORTUNITY
+Pharmacy Delivery,6,6,35,400,0,1142.86,Well Balanced,Aligned

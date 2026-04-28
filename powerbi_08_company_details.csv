@@ -1,0 +1,11 @@
+company_name,sector,founding_year,status,funding_crores,employees,annual_revenue_crores,headquarters,company_status,market_segment,years_in_operation,funding_stage
+Apollo Hospitals,Hospital Chain,1983,Operating,600.0,8000,1200.0,Chennai,Active,Other,41,Well Funded
+Max Healthcare,Hospital Chain,2001,Operating,500.0,5000,600.0,Delhi,Active,Other,23,Moderate Funding
+PharmEasy,Pharmacy/Delivery,2015,Operating,350.0,2000,200.0,Mumbai,Active,India1 Focused,9,Moderate Funding
+Practo,Telemedicine/Healthtech,2008,Operating,250.0,1500,150.0,Bangalore,Active,India1 Focused,16,Moderate Funding
+Unacademy,Health Education,2015,Operating,240.0,1200,80.0,Bangalore,Active,Other,9,Moderate Funding
+1mg,Pharmacy/Telemedicine,2011,Operating,210.0,900,120.0,Delhi,Active,India1 Focused,13,Moderate Funding
+Nykaa,Health/Beauty D2C,2012,IPO,180.0,1800,500.0,Mumbai,Exited,Other,12,Moderate Funding
+Apollo Telehealth,Telemedicine,2020,Operating,80.0,300,40.0,Bangalore,Active,India1 Focused,4,Early Stage
+Lybrate,Telemedicine,2013,Operating,45.0,400,25.0,Delhi,Active,India1 Focused,11,Early Stage
+MyUpchar,Health Content,2013,Operating,10.0,180,5.0,Delhi,Active,Other,11,Early Stage

@@ -1,0 +1,10 @@
+income_segment,year,healthcare_spend_pct_income,out_of_pocket_pct,insurance_coverage_pct,medical_loan_usage_pct,household_catastrophic_health_exp_pct,segment_ranking,segment_description,is_critical_opportunity
+India1,2022,3.5,35.0,55.0,8.0,2.0,1,Affluent - Can afford healthcare,NO
+India2,2022,1.8,65.0,20.0,12.0,58.0,2,Missing Middle - Affordability crisis,YES - CRITICAL OPPORTUNITY
+India3,2022,0.9,75.0,5.0,15.0,68.0,3,Low income - Govt schemes help,NO
+India1,2021,3.2,38.0,52.0,7.0,3.0,1,Affluent - Can afford healthcare,NO
+India2,2021,1.6,68.0,18.0,11.0,60.0,2,Missing Middle - Affordability crisis,YES - CRITICAL OPPORTUNITY
+India3,2021,0.8,78.0,4.0,14.0,70.0,3,Low income - Govt schemes help,NO
+India1,2020,3.0,40.0,50.0,6.0,4.0,1,Affluent - Can afford healthcare,NO
+India2,2020,1.5,70.0,16.0,10.0,62.0,2,Missing Middle - Affordability crisis,YES - CRITICAL OPPORTUNITY
+India3,2020,0.7,80.0,3.0,13.0,72.0,3,Low income - Govt schemes help,NO

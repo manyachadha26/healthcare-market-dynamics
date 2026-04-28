@@ -1,0 +1,9 @@
+sector,total_companies,total_funding_crores,avg_funding_crores,operating_companies,exited_companies,defunct_companies,exit_rate_pct,operating_rate_pct,sector_maturity_years,sector_stage
+Hospital Chain,2,1100.0,550.0,2,0,0,0.0,100.0,41,Well Funded
+Pharmacy/Delivery,1,350.0,350.0,1,0,0,0.0,100.0,9,Early Stage
+Telemedicine/Healthtech,1,250.0,250.0,1,0,0,0.0,100.0,16,Early Stage
+Health Education,1,240.0,240.0,1,0,0,0.0,100.0,9,Early Stage
+Pharmacy/Telemedicine,1,210.0,210.0,1,0,0,0.0,100.0,13,Early Stage
+Health/Beauty D2C,1,180.0,180.0,0,1,0,100.0,0.0,12,Mature (High Exit Rate)
+Telemedicine,2,125.0,62.5,2,0,0,0.0,100.0,11,Early Stage
+Health Content,1,10.0,10.0,1,0,0,0.0,100.0,11,Early Stage
