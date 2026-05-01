@@ -79,7 +79,7 @@ Comprehensive analysis including:
 ## 📈 How to Use
 
 ### View the Dashboard
-Visit: https://bb86d96e-59d1-4232-be45-886a917a3c81-00-b6df2ml9ia1v.sisko.replit.dev/
+https://healthcare-market-dynamics--manyachadha26.replit.app
 
 ### Run Locally
 ```bash
@@ -98,6 +98,4 @@ streamlit run dashboard.py
 
 
 
-**Created:** April 28, 2024  
-**Status:** Complete  
-**Live Dashboard:** https://bb86d96e-59d1-4232-be45-886a917a3c81-00-b6df2ml9ia1v.sisko.replit.dev/
+
