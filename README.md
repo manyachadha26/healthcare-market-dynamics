@@ -11,7 +11,7 @@ This project analyzes ₹2,465 crores of healthcare VC investment in India and r
 ## What's Included
 
 ### 1. Interactive Dashboard
-**Live URL:** https://bb86d96e-59d1-4232-be45-886a917a3c81-00-b6df2ml9ia1v.sisko.replit.dev/
+**Live URL:** https://healthcare-market-dynamics--manyachadha26.replit.app
 
 **5 Interactive Pages:**
 -  **Key Metrics** - KPI cards showing India2 healthcare crisis
